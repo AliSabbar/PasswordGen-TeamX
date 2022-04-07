@@ -32,7 +32,7 @@ def cpy_fun():
 
 # Lable 1
 
-lf = LabelFrame(root, text="Enter Number - Lenth")
+lf = LabelFrame(root, text="Enter Number - Length")
 lf.pack(pady=20)
 # ENTER BOX
 my_entry = Entry(lf, font=("Arial", 18))
