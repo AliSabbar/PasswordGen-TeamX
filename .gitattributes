@@ -8,5 +8,5 @@ docs/* linguist-detectable=false
 *.latex linguist-detectable=false
 *.exe linguist-detectable=false
 *.py linguist-detectable=true
-*.py linguist-language=Solidity
+*.py linguist-language=Python
 
